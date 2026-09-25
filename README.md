@@ -1,16 +1,38 @@
-## Hi there 👋
+# hey, im adarsh 
 
-<!--
-**madarsh25/madarsh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+if youre reading this, im probably wondering `console.log("why??")`.
 
-Here are some ideas to get you started:
+<img src="https://giffiles.alphacoders.com/171/171294.gif" width="400"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+im a **CSE student** interested in **backend development, competitive programming, and problem solving**.
+
+* **BlindHire** — What if hiring could happen without the bias of a name or profile?
+* **BlindSpeech** — A place to say what you think, without having to say who you are.
+* **MessMate** — Because surviving college shouldn't require surviving the mess.
+* **PayGen** — My playground for understanding payments, transactions, and everything behind the button.
+* **LeetCode 90** — 90 days, countless problems, and probably a questionable amount of console.log().
+* **IoT** — One of my many side quests: making software talk to the real world. (my side questing)
+
+
+## Tech Stack
+
+**Languages:** - Java · JavaScript · Python · TypeScript
+
+**Frontend:** - HTML · CSS · React · Tailwind CSS
+
+**Backend:** - Node.js · Express.js · FastAPI · REST APIs
+
+**Databases:** - MongoDB · PostgreSQL · Supabase · Prisma
+
+**Tools:** - Git · GitHub · Docker
+
+## Currently learning
+
+Backend development · System Design · DSA · Competitive Programming
+
+---
+my personal favorite line to say 
+
+> *There is no bug. It's a feature. 🥲*
