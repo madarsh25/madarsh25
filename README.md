@@ -2,7 +2,7 @@
 
 if youre reading this, im probably wondering `console.log("why??")`.
 
-<img src="https://giffiles.alphacoders.com/171/171294.gif" width="400"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h1OWJ6a2d2NHZnMHozbjBkc3Z1d2c1dnBvcTVwajNibDhrdmF5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZmrLi7eC703u/giphy.gif" width="400"/>
 
 ## About me
 
