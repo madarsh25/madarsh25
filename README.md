@@ -35,4 +35,4 @@ Backend development · System Design · DSA · Competitive Programming
 ---
 my personal favorite line to say 
 
-> *There is no bug. It's a feature. 🥲*
+> *There is no bug. It's a feature. *
